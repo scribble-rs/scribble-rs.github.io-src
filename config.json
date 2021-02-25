@@ -1,0 +1,9 @@
+{
+	"SiteName":"Scribble.rs",
+	"Author":"Marcel Schramm",
+	"URL":"https://scribble-rs.github.io/",
+	"Description": "A blog with news about the Scribble.rs project.",
+	"CreationDate":"2021-02-25T00:00:00+00:00",
+	"UtterancesRepo": "scribble-rs/scribble-rs.github.io",
+	"AddOptionalMetaData": true
+}
